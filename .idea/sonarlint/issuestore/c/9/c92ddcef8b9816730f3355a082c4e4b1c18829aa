@@ -1,0 +1,8 @@
+
+h
+java:S1301u"KReplace this "switch" statement by "if" statements to increase readability.(àÖğ8ß¸Ò¨×.
+w
+java:S1192("UDefine a constant instead of duplicating this literal "nekoDuels.duelTypes." 9 times.(Ñ›Ÿüÿÿÿÿ8ı¯®şÖ.
+>	java:S131u""Add a default case to this switch.(àÖğ8ß¸Ò¨×.
+t
+java:S1104"RMake helper a static final constant or non-public and provide accessors if needed.(´ÅÛ”úÿÿÿÿ8¾«‚×.

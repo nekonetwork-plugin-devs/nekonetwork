@@ -1,0 +1,52 @@
+name: NekoNetwork
+version: 1.0-SNAPSHOT
+main: com.nekonetwork.nekonetwork.NekoNetwork
+authors: [LamkasDev]
+description: Plugins for NekoNetwork
+softdepend: [HolographicDisplays]
+commands:
+  # ==> Neko Duels <==
+  setDuelLobbyWorld:
+    description: Sets a lobby world for duels
+    usage: /<command> worldName
+
+  setDuelQueueEntity:
+    description: Sets a entity from which can Player queue to duels
+    usage: /<command> duelType
+
+  setDuelItems:
+    description: Sets an inventory for duels
+    usage: /<command> duelType
+
+  createDuelType:
+    description: Creates a new duelType
+    usage: /<command> name
+
+  addDuelSpawn:
+    description: Adds spawn for players for a specific duelType
+    usage: /<command> duelType
+
+  addDuelArenaWorld:
+    description: Adds duel world for a specific duelType
+    usage: /<command> duelType worldName
+
+  leaveQueue:
+    description: Leaves queue, if player is in one
+    usage: /<command>
+
+  forceDuel:
+    description: Forces a duel
+    usage: /<command> player1 player2
+
+  # ==> Neko Party <==
+  p:
+    description: Creates a party
+    usage: /<command> player
+
+  paccept:
+    description: Accepts a party invite
+    usage: /<command>
+
+  pdeny:
+    description: Denies a party invite
+    usage: /<command>

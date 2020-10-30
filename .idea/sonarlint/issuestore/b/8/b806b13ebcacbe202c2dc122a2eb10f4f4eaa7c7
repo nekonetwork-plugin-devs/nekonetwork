@@ -1,0 +1,25 @@
+
+V
+java:S1128"9Remove this unused import 'org.bukkit.entity.EntityType'.(‹âÌ8ÙÑıª×.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(©ÃìŠ8¬Üš©×.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§éàºúÿÿÿÿ8¬¢”©×.
+_
+java:S1128"=Remove this unused import 'org.bukkit.command.CommandSender'.(íÆ–†üÿÿÿÿ8²ä²©×.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8İ‹ª×.
+>	java:S131""Add a default case to this switch.(àÖğ8ìé—©×.
+J
+java:S1444"(Make this "public static ws" field final(•à‘½úÿÿÿÿ8¬Üš©×.
+p
+java:S1104"NMake ws a static final constant or non-public and provide accessors if needed.(•à‘½úÿÿÿÿ8¼­™©×.
+]
+java:S1128";Remove this unused import 'org.bukkit.attribute.Attribute'.(‹„‰ÿÿÿÿÿ8¬ìãª×.
+E
+java:S1604*"(Make this anonymous inner class a lambda(çŒÛî8×ËŒ«×.
+L
+java:S3740"/Provide the parametrized type for this generic.(ÒÓ˜«8Î™–©×.
+E
+java:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ‹ª×.
+\
+java:S1128	":Remove this unused import 'org.bukkit.entity.EnderDragon'.(¦øÿÿÿÿ8Æ¢Äª×.

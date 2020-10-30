@@ -1,0 +1,31 @@
+
+t
+java:S1104!"WMake timeElapsed a static final constant or non-public and provide accessors if needed.(Ş×“8•Ç‰ö´.
+r
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8ØÿÂõ´.
+n
+java:S1104"QMake items a static final constant or non-public and provide accessors if needed.(éÙ˜Ş8½ÌÒÌ×.
+y
+java:S1104"WMake arenaWorlds a static final constant or non-public and provide accessors if needed.(É‡Äÿÿÿÿÿ8½ÌÒÌ×.
+x
+java:S1104#"VMake scoreboard a static final constant or non-public and provide accessors if needed.(¿ßşöúÿÿÿÿ8´„Åõ´.
+s
+java:S1104 "QMake ended a static final constant or non-public and provide accessors if needed.(Ü¶·ıÿÿÿÿ8¡ãœõ´.
+t
+java:S1104"RMake module a static final constant or non-public and provide accessors if needed.(ÔÍˆ¢ıÿÿÿÿ8Ó›†şÖ.
+D
+java:S1604^"(Make this anonymous inner class a lambda(–ÏÚ!8•Ç‰ö´.
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8•Ç‰ö´.
+v
+java:S1104"YMake previousItems a static final constant or non-public and provide accessors if needed.(×’8ÃçÏÔ×.
+t
+java:S1104"RMake teamID a static final constant or non-public and provide accessors if needed.(üûÀÖıÿÿÿÿ8•Ç‰ö´.
+t
+java:S1104"RMake spawns a static final constant or non-public and provide accessors if needed.(»ñæüÿÿÿÿ8½ÌÒÌ×.
+y
+java:S1104"WMake deadPlayers a static final constant or non-public and provide accessors if needed.(¢Ã±àıÿÿÿÿ8½ÌÒÌ×.
+u
+java:S1104"SMake started a static final constant or non-public and provide accessors if needed.(®Œûÿÿÿÿ8´„Åõ´.
+u
+java:S1104"SMake players a static final constant or non-public and provide accessors if needed.(½Æ›ºüÿÿÿÿ8½ÌÒÌ×.

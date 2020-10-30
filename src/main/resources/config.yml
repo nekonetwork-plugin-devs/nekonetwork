@@ -1,0 +1,6 @@
+enabledModules:
+  - nekoDuels
+nekoDuels:
+  duelTypes: {}
+  queueEntities: {}
+  duelLobbyWorld: world

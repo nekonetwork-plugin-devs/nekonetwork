@@ -1,0 +1,32 @@
+
+L
+java:S37404"/Provide the parametrized type for this generic.(ÁÌ×¸8Òÿí†×.
+k
+java:S1104"NMake ws a static final constant or non-public and provide accessors if needed.(â¡­Ó8±²³ØÖ.
+Q
+java:S3740S"/Provide the parametrized type for this generic.(·½Õæùÿÿÿÿ8²ÌÇ‰×.
+Q
+java:S3740I"/Provide the parametrized type for this generic.(âŞÖ©ùÿÿÿÿ8ÿ•Úˆ×.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªéõøÿÿÿÿ8±²³ØÖ.
+l
+java:S1192"JDefine a constant instead of duplicating this literal "ipAddress" 4 times.(‚êÙüÿÿÿÿ8×Êå×.
+L
+java:S3740:"/Provide the parametrized type for this generic.(²ĞÌÏ8Ş®™‡×.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§éàºúÿÿÿÿ8åƒŒ©×.
+K
+java:S1905&")Remove this unnecessary cast to "String".(û´øÿÿÿÿ8¡½‰‚×.
+K
+java:S3740)"/Provide the parametrized type for this generic.(¦Èk8÷¼†×.
+L
+java:S37404"/Provide the parametrized type for this generic.(ÁÌ×¸8Òÿí†×.
+Q
+java:S3740S"/Provide the parametrized type for this generic.(·½Õæùÿÿÿÿ8²ÌÇ‰×.
+X	java:S125D"<This block of commented-out lines of code should be removed.(†€éˆ8âù£‡×.
+Q
+java:S3740I"/Provide the parametrized type for this generic.(âŞÖ©ùÿÿÿÿ8ÿ•Úˆ×.
+K
+java:S3740)"/Provide the parametrized type for this generic.(¦Èk8÷¼†×.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä8±²³ØÖ.
+L
+java:S3740:"/Provide the parametrized type for this generic.(²ĞÌÏ8Ş®™‡×.

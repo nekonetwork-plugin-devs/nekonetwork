@@ -1,0 +1,7 @@
+
+k
+java:S1104"NMake ws a static final constant or non-public and provide accessors if needed.(â¡­Ó8±²³ØÖ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(üÕÙä8±²³ØÖ.
+l
+java:S1192#"JDefine a constant instead of duplicating this literal "ipAddress" 4 times.(‚êÙüÿÿÿÿ8×Êå×.

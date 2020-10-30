@@ -1,0 +1,13 @@
+
+t
+java:S1104"RMake plugin a static final constant or non-public and provide accessors if needed.(‡Ù¤õùÿÿÿÿ8©ÌûıÖ.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ˆğ¦şÖ.
+p
+java:S1104"SMake enabled a static final constant or non-public and provide accessors if needed.(Å¦¦à8Ù¡¡şÖ.
+L
+java:S3740/"/Provide the parametrized type for this generic.(ìãîô8ß«Í×.
+q
+java:S1192"ODefine a constant instead of duplicating this literal "enabledModules" 3 times.(«©ÂÊÿÿÿÿÿ8§í¶şÖ.
+t
+java:S1104"RMake events a static final constant or non-public and provide accessors if needed.(”²êÌøÿÿÿÿ8ÜÉİüÖ.

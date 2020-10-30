@@ -1,0 +1,25 @@
+
+w
+java:S1104"UMake duelQueue a static final constant or non-public and provide accessors if needed.(ğ£ö´ûÿÿÿÿ8à©ª‚×.
+x
+java:S1104"VMake lastTeamID a static final constant or non-public and provide accessors if needed.(¾í²üÿÿÿÿ8à©ª‚×.
+|
+java:S1104"ZMake duelLobbyWorld a static final constant or non-public and provide accessors if needed.(Ï™Ôœÿÿÿÿÿ8à©ª‚×.
+}
+java:S1104"[Make lobbyScoreboard a static final constant or non-public and provide accessors if needed.(ìĞÖ¸ûÿÿÿÿ8à©ª‚×.
+†
+java:S1104"dMake waitingDuelQueueEntities a static final constant or non-public and provide accessors if needed.(²µ±øùÿÿÿÿ8à©ª‚×.
+r
+java:S1104"UMake duelTypes a static final constant or non-public and provide accessors if needed.(òé„8à©ª‚×.
+
+java:S1104"]Make duelQueueEntities a static final constant or non-public and provide accessors if needed.(äá„·øÿÿÿÿ8à©ª‚×.
+t
+java:S1104"RMake module a static final constant or non-public and provide accessors if needed.(ÔÍˆ¢ıÿÿÿÿ8¸°§‚×.
+v
+java:S1104"YMake playersInGame a static final constant or non-public and provide accessors if needed.(µ„·ï8à©ª‚×.
+E
+java:S1172#"(Remove this unused method parameter "e".(ëã÷„8º•¥‚×.
+}
+java:S1104"[Make duelsInProgress a static final constant or non-public and provide accessors if needed.(³ÍğÔÿÿÿÿÿ8à©ª‚×.
+x
+java:S1104"[Make playersNonReady a static final constant or non-public and provide accessors if needed.(¬åÚ8à©ª‚×.
